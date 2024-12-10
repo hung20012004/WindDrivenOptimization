@@ -1,0 +1,15 @@
+C:\Users\Manh Hung\Desktop\testAI\bin\Debug\net8.0\testAI.exe
+C:\Users\Manh Hung\Desktop\testAI\bin\Debug\net8.0\testAI.deps.json
+C:\Users\Manh Hung\Desktop\testAI\bin\Debug\net8.0\testAI.runtimeconfig.json
+C:\Users\Manh Hung\Desktop\testAI\bin\Debug\net8.0\testAI.dll
+C:\Users\Manh Hung\Desktop\testAI\bin\Debug\net8.0\testAI.pdb
+C:\Users\Manh Hung\Desktop\testAI\obj\Debug\net8.0\testAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manh Hung\Desktop\testAI\obj\Debug\net8.0\testAI.AssemblyInfoInputs.cache
+C:\Users\Manh Hung\Desktop\testAI\obj\Debug\net8.0\testAI.AssemblyInfo.cs
+C:\Users\Manh Hung\Desktop\testAI\obj\Debug\net8.0\testAI.csproj.CoreCompileInputs.cache
+C:\Users\Manh Hung\Desktop\testAI\obj\Debug\net8.0\testAI.sourcelink.json
+C:\Users\Manh Hung\Desktop\testAI\obj\Debug\net8.0\testAI.dll
+C:\Users\Manh Hung\Desktop\testAI\obj\Debug\net8.0\refint\testAI.dll
+C:\Users\Manh Hung\Desktop\testAI\obj\Debug\net8.0\testAI.pdb
+C:\Users\Manh Hung\Desktop\testAI\obj\Debug\net8.0\testAI.genruntimeconfig.cache
+C:\Users\Manh Hung\Desktop\testAI\obj\Debug\net8.0\ref\testAI.dll
