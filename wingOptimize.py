@@ -12,7 +12,7 @@ class WingParams:
         self.coriolis = -8
         self.max_velocity = 0.25
         
-        # Giới hạn các thông số
+      
         self.angle_range = (-5, 15)     # góc tấn từ -5 đến 15 độ
         self.camber_range = (0, 0.15)   # độ cong 0-15% dây cung
         self.thick_range = (0.08, 0.15) # độ dày 8-15% dây cung
